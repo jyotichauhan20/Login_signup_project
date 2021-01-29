@@ -1,0 +1,64 @@
+{
+    "user": [
+        {
+            "username": "kumarnayak",
+            "password": "kum",
+            "profile": {
+                "description": "jj",
+                "dob": "jj",
+                "hobbies": "jj",
+                "gender": "jj"
+            }
+        },
+        {
+            "username": "jy",
+            "password": "jy",
+            "profile": {
+                "description": "i am ",
+                "dob": "20 2 2002",
+                "hobbies": "sing",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "j",
+            "password": "j",
+            "profile": {
+                "description": "i mm",
+                "dob": "56",
+                "hobbies": "g",
+                "gender": "g"
+            }
+        },
+        {
+            "username": "jyoti",
+            "password": "jyoti",
+            "profile": {
+                "description": "i am",
+                "dob": "23",
+                "hobbies": "fg",
+                "gender": "er"
+            }
+        },
+        {
+            "username": "moni",
+            "password": "moni",
+            "profile": {
+                "description": "i am jyoti",
+                "dob": "20 2 2002",
+                "hobbies": "sing",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "pragati",
+            "password": "p1",
+            "profile": {
+                "description": "i am pragati rahul",
+                "dob": " 20 2 2002",
+                "hobbies": "dancing",
+                "gender": "female"
+            }
+        }
+    ]
+}
